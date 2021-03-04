@@ -1,2 +1,0 @@
-INSTRUCTIONS:
-- Run the exec file called Ws8
